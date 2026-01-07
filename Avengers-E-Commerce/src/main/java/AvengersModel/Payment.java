@@ -1,4 +1,4 @@
 package AvengersModel;
 
-public class Order {
+public class Payment {
 }
